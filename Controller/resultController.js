@@ -1,4 +1,4 @@
-const Exam = require("../Model/exam");
+const Exam = require("../Model/Exam");
 const Result = require("../Model/Result");
 
 exports.submitExam = async (req, res, next) => {
